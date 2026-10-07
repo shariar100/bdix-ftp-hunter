@@ -1,20 +1,38 @@
 # BDIX FTP Hunter
 
-BDIX FTP Hunter is the best tool for finding working FTP servers on your broadband connection. The best feature of this tool is that it can automatically open working servers on your browser.
+A Windows utility for discovering reachable FTP servers on a BDIX-enabled broadband connection and opening available servers in a browser.
 
-Official Channel: https://t.me/BakiSoftLabs
-Chat Group: https://t.me/BakiSoftLabschat
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/abdullahal-baki/bdix-ftp-hunter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false" alt="Repo Views" />
-</p>
+## ✨ Highlights
 
-### Check Release 
-or<br>
-Download Link: [https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.4/BDIX-FTP-Hunter-v2.4.exe](https://github.com/abdullahal-baki/bdix-ftp-hunter/releases/download/v-2.5/BDIX-FTP-Hunter-v2.5.exe)
+- 🔎 Scans for reachable FTP endpoints
+- 🌐 Opens working servers in the browser
+- 🖥️ Includes a graphical interface
+- 📦 Windows release builds
 
+## 🖼️ Screenshots
 
-## New GUI Version
-![](sample2.png)
+### Current GUI
 
-## Old version
-![sample](sample.png)
+![Current GUI](sample2.png)
+
+### Previous Version
+
+![Previous Version](sample.png)
+
+## 📥 Releases
+
+Use the repository's **Releases** section for available builds rather than relying on an external download mirror.
+
+## ⚠️ Safety & Privacy
+
+Only scan networks and FTP endpoints that are publicly accessible or where permission has been granted. Do not use the tool to bypass access controls or access private resources.
+
+Review downloaded binaries before running them and obtain releases from trusted sources.
+
+## 🤝 Contributing
+
+Bug reports, documentation improvements, and code contributions are welcome.
+
+## 📄 License
+
+See `LICENSE` if present in the repository.
